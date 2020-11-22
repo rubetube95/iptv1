@@ -3,3 +3,9 @@
 http://techoreels.com/clip/s1.html
 #EXTINF:-1,B
 http://techoreels.com/clip/s2.html
+#EXTINF:-1,Sky Sports
+http://158.187.105.36:1987/live/username/password/12345.ts
+#EXTINF:-1,Sky Sports 2
+http://mag.rapidiptv.tvip.xyz/s/j070f7
+#EXTINF:-1,Sky Sports 3
+http://tv.rapidiptv.tvip.xyz/get.php?username=ZYkBnV7ZwB967&password=MQrQFP726&type=m3u_plus&output=m3u8
